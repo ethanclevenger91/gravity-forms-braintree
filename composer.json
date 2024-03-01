@@ -1,0 +1,7 @@
+{
+    "name": "angelleye/gravity-forms-braintree",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0 | ~2.0"
+    }
+}
